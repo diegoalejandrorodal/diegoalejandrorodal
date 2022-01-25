@@ -11,9 +11,10 @@
 
 ### Social Networks: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkata-sreeram/)](https://www.linkedin.com/in/diego-alejandro-rodal/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/diego-alejandro-rodal/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red)](https://www.instagram.com/diego_alejandro_rodal/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green)](https://walink.co/78321f)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-orange)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRrlnKNhbNZXGNBRwzmPfkFvQTBhfZltHrmtQPkzlwMXgSmRPllnTNnHTmjspMBpVKqcXw)
 
 
 

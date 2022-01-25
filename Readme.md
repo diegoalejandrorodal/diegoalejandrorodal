@@ -11,7 +11,7 @@
 
 ### Social Networks: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkata-sreeram/)](https://github.com/diegoalejandrorodal)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkata-sreeram/)](https://www.linkedin.com/in/diego-alejandro-rodal/)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red)](https://www.instagram.com/diego_alejandro_rodal/)
 
